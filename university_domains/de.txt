@@ -1,0 +1,82 @@
+university_name;university_tlds
+Brandenburgische Technische Universität;b-tu.de
+Europa-Universität Viadrina Frankfurt (Oder);euv-ffo.de
+FU Berlin;fu-berlin.de
+FernUni Hagen;fernuni-hagen.de
+Friederich-Alexander University Erlangen;fau.de
+HU Berlin;hu-berlin.de
+Heinrich-​Heine-Universität Düsseldorf;hhu.de
+Jacobs University Bremen;jacobs-university.de
+Karlsruhe Institute of Technology;kit.edu
+Katholische Universität Eichstätt-Ingolstadt;ku.de
+RWTH Aachen;rwth-aachen.de
+Ruhr Uni Bochum;ruhr-uni-bochum.de
+TU Berlin;tu-berlin.de
+TU Braunschweig;tu-braunschweig.de
+TU Chemnitz;tu-chemnitz.de
+TU Clausthal;tu-clausthal.de
+TU Darmstadt;tu-darmstadt.de
+TU Dortmund;tu-dortmund.de
+TU Dresden;tu-dresden.de
+TU Freiberg;tu-freiberg.de
+TU Hamburg;tuhh.de
+TU Ilmenau;tu-ilmenau.de
+TU Munich;tum.de
+Uni Augsburg;uni-augsburg.de
+Uni Bamberg;uni-bamberg.de
+Uni Bayreuth;uni-bayreuth.de
+Uni Bielefeld;uni-bielefeld.de
+Uni Bonn;uni-bonn.de
+Uni Bremen;uni-bremen.de
+Uni Duisburg/Essen;uni-due.de
+Uni Erfurt;uni-erfurt.de
+Uni Flensburg;uni-flensburg.de
+Uni Frankfurt;uni-frankfurt.de
+Uni Freiburg;uni-freiburg.de
+Uni Giessen;uni-giessen.de
+Uni Goettingen;uni-goettingen.de
+Uni Greifswald;uni-greifswald.de
+Uni Halle (Saale);uni-halle.de
+Uni Hamburg;uni-hamburg.de
+Uni Hannover;uni-hannover.de
+Uni Heidelberg;uni-heidelberg.de
+Uni Hohenheim;uni-hohenheim.de
+Uni Jena;uni-jena.de
+Uni Kaiserslautern;uni-kl.de
+Uni Kassel;uni-kassel.de
+Uni Kiel;uni-kiel.de
+Uni Koblenz;uni-koblenz-landau.de
+Uni Koeln;uni-koeln.de
+Uni Konstanz;uni-konstanz.de
+Uni Leipzig;uni-leipzig.de
+Uni Luebeck;uni-luebeck.de
+Uni Magdeburg;ovgu.de
+Uni Mainz;uni-mainz.de
+Uni Mannheim;uni-mannheim.de
+Uni Marburg;uni-marburg.de
+Uni Muenchen;uni-muenchen.de
+Uni Münster;uni-muenster.de
+Uni Oldenburg;uni-oldenburg.de,uol.de
+Uni Osnabrueck;uni-osnabrueck.de,uos.de
+Uni Paderborn;uni-paderborn.de
+Uni Passau;uni-passau.de
+Uni Regensburg;uni-regensburg.de
+Uni Reutlingen;reutlingen-university.de
+Uni Rostock;uni-rostock.de
+Uni Saarbruecken;uni-saarland.de
+Uni Siegen;uni-siegen.de
+Uni Speyer;uni-speyer.de
+Uni Stuttgart;uni-stuttgart.de
+Uni Trier;uni-trier.de
+Uni Tuebingen;uni-tuebingen.de
+Uni Ulm;uni-ulm.de
+Uni Vechta;uni-vechta.de
+Uni Weimar;uni-weimar.de
+Uni Witten/Herdecke;uni-wh.de
+Uni Wuerzburg;uni-wuerzburg.de
+Uni Wuppertal;uni-wuppertal.de
+Univ. d. Bundeswehr Munich;unibw.de
+Univ. d. Kuenste Berlin;udk-berlin.de
+Universität Lüneburg;leuphana.de
+Universität der Bundeswehr Hamburg;hsu-hh.de
+Zeppelin University;zu.de

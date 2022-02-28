@@ -1,0 +1,116 @@
+university_name;university_tlds
+Abertay University;abertay.ac.uk,tay.ac.uk
+Aberystwyth University;aber.ac.uk
+Anglia Ruskin University;anglia.ac.uk
+Aston University;aston.ac.uk
+Bangor University;bangor.ac.uk
+Bath Spa University;bathspa.ac.uk
+Birkbeck University of London;bbk.ac.uk,birkbeck.ac.uk
+Birmingham City University;bcu.ac.uk,uce.ac.uk
+Bournemouth University;bournemouth.ac.uk
+Brunel University London;brunel.ac.uk
+Canterbury Christ Church University;cant.ac.uk
+Cardiff Metropolitan University;uwic.ac.uk,cardiffmet.ac.uk
+Cardiff University;cardiff.ac.uk,cf.ac.uk
+City University of London;city.ac.uk
+Coventry University;coventry.ac.uk
+Cranfield University;cranfield.ac.uk
+De Montfort University;dmu.ac.uk
+Durham University;dur.ac.uk,durham.ac.uk
+Edinburgh Napier University;napier.ac.uk
+Glasgow Caledonian University;gcal.ac.uk
+Goldsmiths University of London;gold.ac.uk,goldsmiths.ac.uk
+Harper Adams University;harper-adams.ac.uk
+Heriot-Watt University;hw.ac.uk
+Imperial College London;ic.ac.uk,imperial.ac.uk
+Institute of Cancer Research;icr.ac.uk
+Keele University;keele.ac.uk
+King's College London;kcl.ac.uk
+Kingston University;king.ac.uk,kingston.ac.uk
+Lancester University;lancaster.ac.uk,lancs.ac.uk
+Leeds Beckett University;lmu.ac.uk
+Liverpool John Moores University;livjm.ac.uk
+London Business School;london.edu
+London Metropolitan University;londonmet.ac.uk
+London School of Economics;lse.ac.uk
+London School of Hygiene \& Tropical Medicine;lshtm.ac.uk
+London South Bank University;lsbu.ac.uk
+Loughborough University;lboro.ac.uk,loughborough.ac.uk
+Manchester Metropolitan University;mmu.ac.uk
+Middlesex University;mdx.ac.uk
+Newcastle University;ncl.ac.uk,newcastle.ac.uk
+Northumbria University;northumbria.ac.uk,unn.ac.uk
+Nottingham Trent University;ntu.ac.uk
+Open University;open.ac.uk
+Oxford Brookes University;brookes.ac.uk
+Queen Margaret University;qmuc.ac.uk
+Queen Mary University;qmw.ac.uk,qmul.ac.uk
+Queen's University Belfast;qub.ac.uk
+Robert Gordon University;rgu.ac.uk
+Royal Academy of Music;ram.ac.uk
+Royal Central School of Speech and Drama;cssd.ac.uk
+Royal College of Art;rca.ac.uk
+Royal Holloway;rhbnc.ac.uk,rhul.ac.uk,royalholloway.ac.uk
+School of Oriental and African Studies;soas.ac.uk
+Sheffield Hallam University;shu.ac.uk
+Staffordshire University;staffs.ac.uk
+Swansea Uniiversity;swan.ac.uk,swansea.ac.uk
+Teesside University;tees.ac.uk
+Ulster University;ulst.ac.uk,ulster.ac.uk
+University College London;ioe.ac.uk,ucl.ac.uk,ulsop.ac.uk
+University of Aberdeen;abdn.ac.uk
+University of Bath;bath.ac.uk
+University of Bedfordshire;beds.ac.uk
+University of Birmingham;bham.ac.uk,birmingham.ac.uk
+University of Bradford;brad.ac.uk,bradford.ac.uk
+University of Brighton;brighton.ac.uk,bton.ac.uk
+University of Bristol;bris.ac.uk,bristol.ac.uk
+University of Buckingham;buckingham.ac.uk
+University of Cambridge;cam.ac.uk
+University of Central Lancashire;uclan.ac.uk
+University of Derby;derby.ac.uk
+University of Dundee;dundee.ac.uk
+University of East Anglia;uea.ac.uk
+University of East London;uel.ac.uk
+University of Edinburgh;eca.ac.uk,ed.ac.uk,edinburgh.ac.uk
+University of Essex;essex.ac.uk,sx.ac.uk
+University of Exeter;ex.ac.uk,exeter.ac.uk
+University of Glasgow;gla.ac.uk,glasgow.ac.uk
+University of Gloucestershire;glos.ac.uk
+University of Greenwich;gre.ac.uk,greenwich.ac.uk
+University of Hertfordshire;herts.ac.uk
+University of Huddersfield;hud.ac.uk
+University of Hull;hull.ac.uk
+University of Kent;kent.ac.uk,ukc.ac.uk
+University of Leeds;leeds.ac.uk
+University of Leicester;le.ac.uk,leicester.ac.uk
+University of Lincoln;lincoln.ac.uk
+University of Liverpool;liv.ac.uk,liverpool.ac.uk
+University of Manchester;man.ac.uk,manchester.ac.uk,mcc.ac.uk,umist.ac.uk
+University of Northampton;northampton.ac.uk
+University of Nottingham;nott.ac.uk,nottingham.ac.uk
+University of Oxford;ox.ac.uk
+University of Plymouth;plym.ac.uk,plymouth.ac.uk
+University of Portsmouth;port.ac.uk
+University of Reading;rdg.ac.uk,reading.ac.uk
+University of Roehampton;roehampton.ac.uk
+University of Salford;salford.ac.uk
+University of Sheffield;shef.ac.uk,sheffield.ac.uk
+University of South Wales;newport.ac.uk
+University of Southampton;soton.ac.uk,southampton.ac.uk
+University of St Andrews;st-and.ac.uk,st-andrews.ac.uk
+University of Stirling;stir.ac.uk
+University of Strathclyde;strath.ac.uk
+University of Sunderland;sund.ac.uk,sunderland.ac.uk
+University of Surrey;surrey.ac.uk
+University of Sussex;sussex.ac.uk,susx.ac.uk
+University of Wales Trinity Saint David;lamp.ac.uk
+University of Warwick;warwick.ac.uk
+University of West London;tvu.ac.uk
+University of Westminster;westminster.ac.uk,wmin.ac.uk
+University of Wolverhampton;wlv.ac.uk
+University of Worcester;worc.ac.uk
+University of the Arts London;arts.ac.uk,linst.ac.uk
+University of the West of England Bristol;uwe.ac.uk
+University of the West of Scotland;paisley.ac.uk
+Universiy of York;york.ac.uk

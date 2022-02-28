@@ -1,0 +1,101 @@
+university_name;university_tlds
+Australian National University;anu.edu.au
+Boston University;bu.edu
+Brown University;brown.edu
+California Institute of Technology;caltech.edu
+Carnegie Mellon University;cmu.edu
+Charité - Universitätsmedizin Berlin;charite.de
+Chinese University of Hong Kong;cuhk.edu.hk
+Columbia University;columbia.edu
+Cornell University;cornell.edu
+Dartmouth College;dartmouth.edu
+Delft University of Technology;tudelft.nl
+Duke University;duke.edu
+ETH Zurich;ethz.ch
+Emory University;emory.edu
+Erasmus University Rotterdam;eur.nl
+Georgia Institute of Technology;gatech.edu
+Harvard University;harvard.edu
+Heidelberg University;heidelberg.edu
+Humboldt University of Berlin;hu-berlin.de
+Imperial College London;imperial.ac.uk
+Johns Hopkins University;jhu.edu
+KU Leuven;kuleuven.be
+Karolinska Institute;ki.se
+King’s College London;kcl.ac.uk
+Kyoto University;kyoto-u.ac.jp
+LMU Munich;uni-muenchen.de
+Leiden University;universiteitleiden.nl,leidenuniv.nl
+London School of Economics and Political Science;lse.ac.uk
+Lund University;lu.se
+Massachusetts Institute of Technology;mit.edu
+McGill University;mcgill.ca
+McMaster University;mcmaster.ca
+Michigan State University;msu.edu
+Monash University;monash.edu,monash.edu.au
+Nanyang Technological University, Singapore;ntu.edu.sg
+National University of Singapore;nus.edu.sg
+New York University;nyu.edu
+Northwestern University;northwestern.edu
+Ohio State University (Main campus);osu.edu
+Paris Sciences et Lettres  PSL Research University Paris;psl.eu
+Peking University;pku.edu.cn
+Penn State (Main campus);psu.edu
+Princeton University;princeton.edu
+Purdue University West Lafayette;purdue.edu
+RWTH Aachen University;rwth-aachen.de
+Seoul National University;snu.ac.kr
+Sorbonne Université;univ-paris4.fr,sorbonne-universite.fr
+Stanford University;stanford.edu
+Sungkyunkwan University (SKKU);skku.edu
+Technical University of Munich;tum.de
+The Hong Kong University of Science and Technology;ust.hk
+The University of Chicago;uchicago.edu
+The University of Queensland;uq.edu.au
+The University of Tokyo;u-tokyo.ac.jp
+Tsinghua University;tsinghua.edu.cn
+UCL;ucl.ac.uk
+UNSW Sydney;unsw.edu.au
+University of Amsterdam;uva.nl
+University of Basel;unibas.ch
+University of Bristol;bris.ac.uk
+University of British Columbia;ubc.ca
+University of California, Berkeley;berkeley.edu
+University of California, Davis;ucdavis.edu
+University of California, Irvine;uci.edu
+University of California, Los Angeles;ucla.edu
+University of California, San Diego;ucsd.edu
+University of California, Santa Barbara;ucsb.edu
+University of Cambridge;cam.ac.uk
+University of Edinburgh;ed.ac.uk
+University of Freiburg;uni-freiburg.de
+University of Glasgow;gla.ac.uk
+University of Groningen;rug.nl
+University of Helsinki;helsinki.fi
+University of Hong Kong;hku.hk
+University of Illinois at Urbana-Champaign;illinois.edu
+University of Manchester;manchester.ac.uk
+University of Maryland, College Park;umd.edu
+University of Melbourne;unimelb.edu.au
+University of Michigan-Ann Arbor;umich.edu
+University of Minnesota;umn.edu
+University of Montreal;umontreal.ca
+University of North Carolina at Chapel Hill;unc.edu
+University of Oxford;ox.ac.uk
+University of Pennsylvania;upenn.edu
+University of Science and Technology of China;ustc.edu.cn
+University of Southern California;usc.edu
+University of Sydney;sydney.edu.au
+University of Texas at Austin;utexas.edu
+University of Toronto;utoronto.ca
+University of Tübingen;uni-tuebingen.de
+University of Warwick;warwick.ac.uk
+University of Washington;wustl.edu
+University of Wisconsin-Madison;wisc.edu
+University of Zurich;uzh.ch
+Utrecht University;uu.nl
+Wageningen University \& Research;wur.nl
+Washington University in St Louis;uw.edu
+Yale University;yale.edu
+École Polytechnique;polytechnique.edu
+École Polytechnique Fédérale de Lausanne;epfl.ch

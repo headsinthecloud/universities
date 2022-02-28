@@ -1,0 +1,75 @@
+university_name;university_tlds
+Institut Catholique de Lyon;ucly.fr,univ-catholyon.fr
+Institut Catholique de Paris;icp.fr
+Institut Catholique de Toulouse;ict-toulouse.fr
+Institut National Universitaire Champollion;univ-jfc.fr
+La Rochelle Université;univ-larochelle.fr
+Sorbonne Université;paris-sorbonne.fr,sorbonne-universite.fr,univ-paris4.fr
+Universität Paris 8 Vincennes-Saint-Denis;univ-paris8.fr
+Universität Paris III  Sorbonne Nouvelle;univ-paris3.fr
+Universität des Oberelsass;uha.fr
+Université Blaise Pascal Clermont-Ferrand II;univ-bpclermont.fr
+Université Bordeaux Montaigne;u-bordeaux-montaigne.fr
+Université Bretagne Sud;univ-ubs.fr
+Université Catholique de Lille;univ-catholille.fr
+Université Catholique de l’Ouest;uco.fr
+Université Claude-Bernard-Lyon-I;univ-lyon1.fr
+Université François Rabelais de Tours;univ-tours.fr
+Université Grenoble Alpes;u-grenoble3.fr,ujf-grenoble.fr,univ-grenoble-alpes.fr,upmf-grenoble.fr
+Université Jean-Monnet-Saint-Étienne;univ-st-etienne.fr
+Université Jean-Moulin-Lyon-III;univ-lyon3.fr
+Université Lille Nord de France;cue-lillenorddefrance.fr,univ-lille.fr,univ-lille1.fr,univ-lille2.fr,univ-lille3.fr,univ-littoral.fr
+Université Lumière Lyon 2;univ-lyon2.fr
+Université Paris 1 Panthéon-Sorbonne;pantheonsorbonne.fr,univ-paris1.fr
+Université Paris 2 Panthéon-Assas;u-paris2.fr
+Université Paris-Est Marne-la-Vallée;univ-mlv.fr
+Université Paris-Nanterre;parisnanterre.fr,u-paris10.fr,univ-paris10.fr
+Université Paris-Sud;u-psud.fr
+Université Paul Cézanne Aix-Marseille III;univ-cezanne.fr
+Université Paul Sabatier Toulouse III;univ-tlse3.fr,ups-tlse.fr
+Université Savoie Mont Blanc;univ-savoie.fr
+Université Savoie-Mont-Blanc;univ-smb.fr
+Université Sorbonne Paris Nord;univ-paris12.fr,u-pec.fr
+Université Toulouse 1 Sciences Sociales;univ-tlse1.fr,ut-capitole.fr
+Université ToulouseJean Jaurès;univ-tlse2.fr
+Université d'Angers;univ-angers.fr
+Université d'Artois;univ-artois.fr
+Université d'Avignon et des Pays de Vaucluse;univ-avignon.fr
+Université d'Orléans;univ-orleans.fr
+Université d'Évry;univ-evry.fr
+Université de Bordeaux;u-bordeaux.fr,u-bordeaux1.fr,u-bordeaux4.fr
+Université de Bourgogne;u-bourgogne.fr
+Université de Caen Basse-Normandie;unicaen.fr
+Université de Cergy-Pontoise;cyu.fr,u-cergy.fr
+Université de Franche-Comté;univ-fcomte.fr
+Université de Haute Bretagne Rennes 2;univ-rennes2.fr
+Université de La Réunion;univ-reunion.fr
+Université de Limoges;unilim.fr
+Université de Lorraine;univ-lorraine.fr
+Université de Lyon;universite-lyon.fr
+Université de Montpellier;umontpellier.fr,univ-montp1.fr,univ-montp2.fr,univ-montp3.fr
+Université de Nantes;univ-nantes.fr
+Université de Nice Sophia-Antipolis;unice.fr
+Université de Nîmes;unimes.fr
+Université de Paris;univ-paris5.fr,univ-paris7.fr,univ-paris-diderot.fr,u-paris.fr
+Université de Pau et des Pays de l'Adour;univ-pau.fr
+Université de Perpignan Via Domitia;univ-perp.fr
+Université de Picardie Jules Verne;u-picardie.fr
+Université de Poitiers;univ-poitiers.fr
+Université de Provence Aix-Marseille I;univ-provence.fr
+Université de Reims Champagne-Ardenne;univ-reims.fr
+Université de Rennes 1;univ-rennes1.fr
+Université de Rouen;univ-rouen.fr
+Université de Strasbourg;u-strasbg.fr,unistra.fr
+Université de Toulon;univ-tln.fr
+Université de Valenciennes;univ-valenciennes.fr
+Université de Versailles-Saint-Quentin-en-Yvelines;uvsq.fr
+Université de la Mediterranée Aix-Marseille II;univmed.fr
+Université de la Nouvelle-Calédonie;unc.nc
+Université de la Polynésie française;upf.pf
+Université de technologie de Compiègne;utc.fr
+Université des Antilles et de la Guyane;univ-ag.fr
+Université du Havre;univ-lehavre.fr
+Université du Maine;univ-lemans.fr
+Université d’Aix-Marseille;univ-amu.fr
+Université d’Auvergne Clermont-Ferrand;uca.fr,u-clermont1.fr

@@ -1,0 +1,15 @@
+university_name;university_tlds
+EPFL;epfl.ch
+ETH Zürich;ethz.ch
+FernUni Schweiz;fernuni.ch
+Graduate Institute Geneva;graduateinstitute.ch
+Universita della Svizzera italiana;usi.ch,unisi.ch
+University Basel;unibas.ch
+University Bern;unibe.ch
+University Fribourg;unifr.ch
+University Geneva;unige.ch
+University Lausanne;unil.ch,idheap.ch
+University Luzern;unilu.ch
+University Neuchatel;unine.ch
+University St. Gallen;unisg.ch
+University Zürich;uzh.ch

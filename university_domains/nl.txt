@@ -1,0 +1,20 @@
+university_name;university_tlds
+Erasmus Universiteit Rotterdam;eur.nl
+Maastricht School of Management;msm.nl
+Maastricht University;maastrichtuniversity.nl
+Nyenrode Business Universiteit;nyenrode.nl
+Open Universiteit;ou.nl
+Protestantse Theologische Universiteit;pthu.nl
+Radboud Universiteit;ru.nl
+Rijksuniversiteit Groningen;rug.nl
+TIAS School for Business and Society;tias.edu
+Technische Universiteit Delft;tudelft.nl
+Technische Universiteit Eindhoven;tue.nl
+Tilburg University;uvt.nl
+Universiteit Leiden;leidenuniv.nl,universiteitleiden.nl
+Universiteit Twente;utwente.nl
+Universiteit Utrecht;uu.nl
+Universiteit van Amsterdam;uva.nl
+Universiteit voor Humanistiek;uvh.nl
+Vrije Universiteit Amsterdam;vu.nl
+Wageningen Universiteit \& Research;wur.nl
