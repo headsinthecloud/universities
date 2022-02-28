@@ -1,0 +1,35 @@
+university_name;university_tlds
+Akademie der Bildenden Künste Wien;akbild.ac.at
+Anton Bruckner Privatuniversistät;bruckneruni.at
+Bertha von Suttner Privatuniversität;suttneruni.at
+Central European University;ceu.edu
+Danube Private University;dp-uni.ac.at
+Graz University of Technology;tugraz.at
+Jam Music Lab - Privatuniversität für Jazz und Popularmusik Wien;jammusiclab.com
+Johannes Kepler Universität Linz;jku.at
+Karl Landsteiner Privatuniversität für Gedundheitswissenschaften;kl.ac.at
+Katholische Privatuniversistät Linz;ku-linz.at
+Kunst Uni Graz;kug.ac.at
+Kunst Universität Linz;ufg.ac.at
+Medizinische Universität Graz;medunigraz.at
+Medizinische Universität Innsbruck;i-med.ac.at
+Medizinische Universität Wien;meduniwien.ac.at
+Modul University Vienna;modul.ac.at
+Montanuniversität Leoben;unileoben.ac.at
+Paracelsus Medizinische Privatuniversität;pmu.ac.at
+Privatuniversität Schloss Seeburg;uni-seeburg.at
+The Tyrolean Private University;umit.at
+University of Graz;uni-graz.at
+University of Innsbruck;uibk.ac.at
+University of Klagenfurt;uni-klu.ac.at
+University of Vienna;univie.ac.at
+Universität Mozarteum Salzburg;moz.ac.at
+Universität Salzburg;uni-salzburg.at
+Universität für Bodenkultur Wien;boku.ac.at
+Universität für Musik und Darstellende Kunst Wien;mdw.ac.at
+Universität für Weiterbildung Krems;donau-uni.ac.at
+Universität für angewandte Kunst Wien;dieangewandte.at
+Veterinärmedizinische Universität Wien;vetmeduni.ac.at
+Vienna University of Economics and Business;wu.ac.at
+Vienna University of Technology;tuwien.ac.at
+Webster Vienna Private University;webster.ac.at
